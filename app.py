@@ -9,7 +9,7 @@ from sklearn.datasets import make_moons
 from sklearn.model_selection import  train_test_split
 
 ##st.title('Gradient Boost Classification')
-url='https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.GradientBoostingClassifier.html'
+#url='https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.GradientBoostingClassifier.html'
 
 
 concentric,linear,outlier,spiral,ushape,xor = data_helper.load_dataset()
@@ -28,8 +28,8 @@ if st.sidebar.button('HOW TO RUN'):
                      '4.To again set the default values\n, reload the page.\n'
                      '5.For more details about the parameters\n click on Documentation button')
 
-if st.sidebar.button('DOCUMENTATION'):
-    webbrowser.open_new_tab(url)
+#if st.sidebar.button('DOCUMENTATION'):
+#   webbrowser.open_new_tab(url)
 
 # dataset
 dataset_options=st.sidebar.radio('Choose Dataset',('use generated dataset','use toy dataset'))
