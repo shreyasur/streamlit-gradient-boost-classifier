@@ -25,9 +25,8 @@ if st.sidebar.button('HOW TO RUN'):
     st.sidebar.text('1.All the parameters have been set to \n their default values,to increase/decrease\n/input the values use the interactive widgets given below. \n'
                      '2.Once done, click on Run Algorithm\nbutton.\n'
                      '3.If the accuracy is more than or equal to 0.90\nthen you will get a celebratory balloon\n show.\n'
-                     '4.To again set the default values\n, reload the page.\n'
-                     '5.For more details about the parameters\n click on Documentation button')
-
+                     '4.To again set the default values\n, reload the page.\n')
+                    
 #if st.sidebar.button('DOCUMENTATION'):
 #   webbrowser.open_new_tab(url)
 
