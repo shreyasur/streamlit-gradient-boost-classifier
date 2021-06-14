@@ -6,7 +6,7 @@ There are different datasets to choose from and also you can vizualise how your 
 
 If the accuracy is more than 90% then you also get a celeberatory balloon show.
 
-Documentation of Gradient Boost Classifier parameters-'https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.GradientBoostingClassifier.html'
+Documentation of Gradient Boost Classifier parameters-https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.GradientBoostingClassifier.html
 
 deployed on heroku-https://gradientboostclassifier.herokuapp.com/
 
