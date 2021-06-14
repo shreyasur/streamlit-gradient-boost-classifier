@@ -7,3 +7,5 @@ There are different datasets to choose from and also you can vizualise how your 
 If the accuracy is more than 90% then you also get a celeberatory balloon show.
 
 deployed on heroku-https://gradientboostclassifier.herokuapp.com/
+
+Note-The app may take a few seconds to load due to large file size.
