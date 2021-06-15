@@ -8,6 +8,8 @@ If the accuracy is more than 90% then you also get a celeberatory balloon show.
 
 Documentation of Gradient Boost Classifier parameters-https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.GradientBoostingClassifier.html
 
+deployed on streamlit-https://share.streamlit.io/shreyasur/streamlit-gradient-boost-classifier/app.py
+
 deployed on heroku-https://gradientboostclassifier.herokuapp.com/
 
 Note-The app may take a few seconds to load due to large file size.
